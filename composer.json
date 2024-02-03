@@ -1,0 +1,12 @@
+{
+    "name": "ronmarasigan/myapp",
+    "description": "Test Project",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LavaLust\\Scheme\\": "src/"
+        }
+    },
+    "require": {}
+}
