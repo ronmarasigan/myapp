@@ -5,7 +5,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "LavaLust\\Scheme\\": "src/"
+            "Ronmarasigan\\Myapp\\": "src/",
+            "Ronmarasigan\\Myapp\\Library\\": "src/Lib"
         }
     },
     "require": {}

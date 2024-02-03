@@ -1,8 +1,8 @@
 <?php
-namespace LavaLust\Scheme\Database;
+namespace LavaLust\Scheme\Library;
 
-class Database {
+class Session {
     public function __construct() {
-        echo 'This is Database Constructor';
+        echo 'This is Session Constructor';
     }
 }
