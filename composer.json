@@ -5,8 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "LavaLust\\Scheme\\": "src/",
-            "LavaLust\\Scheme\\Library\\": "src/Lib"
+            "LavaLust\\Scheme\\": "src/"
         }
     },
     "require": {}
